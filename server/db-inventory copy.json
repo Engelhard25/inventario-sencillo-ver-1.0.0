@@ -1,0 +1,22 @@
+{
+    "inventory": [
+        {
+            "code": 1,
+            "description": "Jabón Mega",
+            "stock": 20,
+            "base_price": 5
+        },
+        {
+            "code": 2,
+            "description": "Cloro Mega",
+            "stock": 20,
+            "base_price": 5
+        },
+        {
+            "code": 3,
+            "description": "Desengrasante Mega",
+            "stock": 20,
+            "base_price": 5
+        }
+    ]
+}

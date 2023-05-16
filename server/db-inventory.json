@@ -1,0 +1,74 @@
+{
+  "inventory": [
+    {
+      "id": 4,
+      "code": 4,
+      "description": "Jabón Mega",
+      "stock": 0,
+      "base_price": 5
+    },
+    {
+      "id": 5,
+      "code": 5,
+      "description": "Cloro Mega",
+      "stock": 17,
+      "base_price": 3
+    },
+    {
+      "id": 6,
+      "code": 6,
+      "description": "Desengrasante Mega",
+      "stock": 0,
+      "base_price": 4
+    },
+    {
+      "id": 7,
+      "code": 7,
+      "description": "Jabón Mega",
+      "stock": 20,
+      "base_price": 5
+    },
+    {
+      "id": 8,
+      "code": 8,
+      "description": "Cloro Mega",
+      "stock": 17,
+      "base_price": 3
+    },
+    {
+      "id": 9,
+      "code": 9,
+      "description": "Desengrasante Mega",
+      "stock": 0,
+      "base_price": 4
+    },
+    {
+      "id": 10,
+      "code": 10,
+      "description": "Jabón Mega",
+      "stock": 20,
+      "base_price": 5
+    },
+    {
+      "id": 11,
+      "code": 11,
+      "description": "Cloro Mega",
+      "stock": 17,
+      "base_price": 3
+    },
+    {
+      "id": 12,
+      "code": 12,
+      "description": "Desengrasante Mega",
+      "stock": 5,
+      "base_price": 4
+    },
+    {
+      "code": 12525,
+      "description": "Jabón Megahgfhfgh",
+      "stock": 50,
+      "base_price": 1,
+      "id": 13
+    }
+  ]
+}
